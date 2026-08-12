@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cvenugop
-- 📫 How to reach me venugopal.chandru@yahoo.com
+- 📫 How to reach me venugopal.chandru@yahoo.com/chandru.venugopal@gmail.com
 
 <!---
 cvenugop/cvenugop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
